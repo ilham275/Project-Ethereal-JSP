@@ -1,0 +1,12 @@
+Servlet\LogoutServlet.class
+Servlet\TransactionServlet.class
+web\test\JAXRSConfiguration.class
+AdminServlet\AddUserServlet.class
+Servlet\RegisterServlet.class
+AdminServlet\EditProductServlet.class
+AdminServlet\AddProductServlet.class
+AdminServlet\EditUserServlet.class
+web\test\resources\JavaEE8Resource.class
+Servlet\LoginServlet.class
+AdminServlet\DeleteUserServlet.class
+AdminServlet\DeleteProductServlet.class
